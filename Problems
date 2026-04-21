@@ -1,0 +1,51 @@
+Netflix SQL Project – Problem Statements
+1. Count of Movies vs TV Shows
+Find the total number of Movies and TV Shows in the dataset.
+
+2. Most Common Rating by Type
+Identify the most frequently occurring rating for Movies and TV Shows separately.
+
+3. Movies Released in a Specific Year
+List all Movies released in the year 2020.
+
+4. Top 5 Countries with Most Content
+Find the top 5 countries that have produced the highest number of Netflix titles.
+
+5. Longest Movie in the Dataset
+Identify the movie with the maximum duration.
+
+6. Content Added in Last 5 Years
+Retrieve all Netflix content added in the last 5 years.
+
+7. Content by Specific Director
+Find all Movies and TV Shows directed by Rajiv Chilaka.
+
+8. TV Shows with More Than 5 Seasons
+List all TV Shows that have more than 5 seasons.
+
+9. Documentary Movies
+Find all Movies that belong to the Documentary category.
+
+10. Content Without Director
+Find all Netflix titles where director information is missing.
+
+11. Actor Analysis (Last 10 Years)
+Find all Movies and TV Shows featuring Salman Khan released in the last 10 years.
+
+12. Top Directors by Content Count
+Identify the top 5 directors who have the highest number of Netflix titles.
+
+If you want next upgrade, I can also:
+
+
+Convert this into a perfect GitHub README (fully polished + professional formatting)
+
+
+Add SQL queries below each question
+
+
+Or make it resume + LinkedIn ready project
+
+
+Just say 👍
+Identify the top 5 directors who have the highest number of Netflix titles.
