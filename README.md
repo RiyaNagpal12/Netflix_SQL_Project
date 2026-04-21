@@ -1,6 +1,8 @@
 # Netflix_SQL_Project
 
 Netflix Data Analysis using SQL
+
+
 Project Overview
 
 This project analyzes a Netflix dataset using SQL queries to extract meaningful insights about movies, TV shows, actors, genres, directors, and release trends.
@@ -9,10 +11,15 @@ The goal is to practice real-world data analysis skills using structured queries
 
 🎯 Objectives
 Analyze Netflix content distribution (Movies vs TV Shows)
+
+
 Identify most popular genres and actors
 Study content trends over time
 Perform data cleaning using SQL techniques
 Practice advanced SQL (joins, aggregation, string functions)
+
+
+
 🛠️ Tech Stack
 Database: MySQL
 Language: SQL
